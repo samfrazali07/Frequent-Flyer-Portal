@@ -1,0 +1,22 @@
+{"timestamp":"00:00:06.998","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:14.729","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:00:14.996","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:32.867","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:33.742","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:00:33.816","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:00:33.888","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:00.541","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:00.551","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:00.557","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:02.668","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:02.676","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:02.686","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:41.779","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:41.794","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:41.801","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:50.653","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:02:23.236","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:06:56.583","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:07:49.830","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:08:54.691","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:15:13.732","source":"Browser","level":"LOG","message":"[Analytics] User interacted with End-to-End Frequent Flyer Portal {\"action\":\"reset_demo_data\",\"timestamp\":\"2026-10-20T16:51:31.625Z\"}"}
